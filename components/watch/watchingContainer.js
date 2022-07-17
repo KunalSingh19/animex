@@ -110,7 +110,7 @@ const WatchingContainer = ({ data = [], slug }) => {
           <span
             className={`${theme.text.selected} ml-0 lg:ml-10 text-3xl lg:text-3xl`}
           >
-            {"Ep:" + slug[1] + " Wait Sometime for us to load the video for you. If Video Doesn't Load please use iframe option both are without ads."} 
+            {"Ep:" + slug[1] + " Wait Sometime for us to load the video for you. If Video Doesn't Load please use iframe option ."} 
           </span>
           {!iframe && (
             <Select
