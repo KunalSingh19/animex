@@ -18,7 +18,7 @@ module.exports = withPWA({
     return config;
   },
   images: {
-    domains: ["gogocdn.net", "animexninja-2.kunalsingh19.repl.co","legendtoon.tk","animexninja-api.kunalsingh19.repl.co"],
+    domains: ["gogocdn.net", "watch.legendtoon.tk","legendtoon.tk","animexninja-api.kunalsingh19.repl.co"],
   },
   env: {
     key: "DHVIT_OPHAHHAMFLOL",
