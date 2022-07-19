@@ -18,10 +18,10 @@ module.exports = withPWA({
     return config;
   },
   images: {
-    domains: ["gogocdn.net", "watch.legendtoon.tk","legendtoon.tk","animexninja-api-1.kunalsingh19.repl.co"],
+    domains: ["gogocdn.net", "api.watch.legendtoon.tk", "watch.legendtoon.tk","legendtoon.tk","animexninja-api-1.kunalsingh19.repl.co"],
   },
   env: {
     key: "DHVIT_OPHAHHAMFLOL",
-    URL: "https://animexninja-api-1.kunalsingh19.repl.co/api/",
+    URL: "https://api.watch.legendtoon.tk/api/",
   },
 });
